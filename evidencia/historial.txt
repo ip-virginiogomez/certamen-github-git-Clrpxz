@@ -1,0 +1,5 @@
+eef3099 (HEAD -> main, origin/main, origin/HEAD) feat: agrego captura.png a la evidencia
+324c879 fact: respondo mis preguntas de git
+a400bff feat: agrego mi archivo de presentacion
+aa7f959 add online IDE url; add deadline
+c2421cf Initial commit
